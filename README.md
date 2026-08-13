@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ved331/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ved331/DSA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/ved331/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ved331/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/ved331/DSA/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/ved331/DSA/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ved331/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ved331/DSA/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/ved331/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ved331/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
