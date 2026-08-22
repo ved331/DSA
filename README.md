@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ved331/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ved331/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ved331/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ved331/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ved331/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ved331/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/ved331/DSA/tree/master/0152-maximum-product-subarray) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ved331/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ved331/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
