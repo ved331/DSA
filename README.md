@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ved331/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ved331/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ved331/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ved331/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ved331/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ved331/DSA/tree/master/0078-subsets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ved331/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ved331/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ved331/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
