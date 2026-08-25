@@ -3,8 +3,8 @@ class Solution {
         int currMax=0;
         int currMin=0;
 
-        int minSum=0;
-        int maxSum=0;
+        int minSum=Integer.MAX_VALUE;
+        int maxSum=Integer.MIN_VALUE;
 
         for(int i=0;i<nums.length;i++){
 
