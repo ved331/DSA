@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ved331/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ved331/DSA/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/ved331/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ved331/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ved331/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ved331/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ved331/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ved331/DSA/tree/master/0152-maximum-product-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ved331/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
