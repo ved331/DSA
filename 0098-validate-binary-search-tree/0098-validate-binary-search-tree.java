@@ -14,24 +14,40 @@
  * }
  */
 class Solution {
-    public boolean isValidBST(TreeNode root) {
-     ArrayList<Integer> list=new ArrayList<>();
+    // public boolean isValidBST(TreeNode root) {
+    //  ArrayList<Integer> list=new ArrayList<>();
 
-     Inorder(root,list);
+    //  Inorder(root,list);
 
-     for(int i=1;i<list.size();i++){
-        if(list.get(i)<=list.get(i-1)){
+    //  for(int i=1;i<list.size();i++){
+    //     if(list.get(i)<=list.get(i-1)){
+    //         return false;
+    //     }
+    //  }
+    //  return true;
+    // }
+    //  public static void Inorder(TreeNode root,ArrayList<Integer> list){
+    //     if(root==null){
+    //         return;
+    //     }
+    //     Inorder(root.left,list);
+    //     list.add(root.val);
+    //     Inorder(root.right,list);
+
+    // Approach 2
+    public boolean isValidBST(TreeNode root){
+        return isValidBST(root,null,null);
+    }
+    public boolean isValidBST(TreeNode root,TreeNode min,TreeNode max) {
+        if(root==null){
+            return true;
+        }
+        if(min!=null && root.val<=min.val){
+            return false;
+        }else if(max!=null && root.val>=max.val){
             return false;
         }
-     }
-     return true;
-    }
-     public static void Inorder(TreeNode root,ArrayList<Integer> list){
-        if(root==null){
-            return;
-        }
-        Inorder(root.left,list);
-        list.add(root.val);
-        Inorder(root.right,list);
+        return isValidBST(root.left,min,root)
+        && isValidBST(root.right,root,max);
      }
     }
