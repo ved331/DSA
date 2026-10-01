@@ -19,12 +19,12 @@ public class Solution {
             temp=temp.next;
         }
 
-        temp=headB;
-        while(temp!=null){
-            if(set.contains(temp)){
-                return temp;
+       ListNode temp1=headB;
+        while(temp1!=null){
+            if(set.contains(temp1)){
+                return temp1;
             }
-            temp=temp.next;
+            temp1=temp1.next;
         }
         return null;
        }
