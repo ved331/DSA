@@ -1,0 +1,44 @@
+class Solution {
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+        List<List<Integer>> res=new ArrayList<>();
+
+        HashSet<String> unique=new HashSet<>();
+
+        Arrays.sort(nums);
+        int n=nums.length;
+
+        for(int i=0;i<n-3;i++){
+            for(int j=i+1;j<n-2;j++){
+                int li=j+1;
+                int ri=n-1;
+            
+            while(li<ri){
+                long sum=(long) nums[i]+nums[j]+nums[li]+nums[ri];
+
+                if(sum<target){
+                   li++;
+                }else if(sum>target){
+                   ri--;
+                }else{
+                    StringBuilder sb=new StringBuilder();
+                    sb.append(nums[i]);
+                    sb.append(nums[j]);
+                    sb.append(nums[li]);
+                    sb.append(nums[ri]);
+                    String code=sb.toString();
+
+                    if(unique.contains(code)==false){
+                        unique.add(code);
+                        res.add(Arrays.asList(nums[i],nums[j],nums[li],nums[ri]));
+
+                    }
+                       li++;
+                       ri--;
+                }   
+               
+            }
+        }
+        }
+        return res;
+    }
+}
