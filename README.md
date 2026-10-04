@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ved331/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ved331/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ved331/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ved331/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ved331/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ved331/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ved331/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ved331/DSA/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ved331/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ved331/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ved331/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ved331/DSA/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ved331/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ved331/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ved331/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ved331/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ved331/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ved331/DSA/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ved331/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
