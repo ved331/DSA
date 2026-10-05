@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ved331/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ved331/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ved331/DSA/tree/master/0344-reverse-string) |
+| [0856-score-of-parentheses](https://github.com/ved331/DSA/tree/master/0856-score-of-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ved331/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ved331/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ved331/DSA/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/ved331/DSA/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ved331/DSA/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ved331/DSA/tree/master/0856-score-of-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
