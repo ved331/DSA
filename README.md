@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/ved331/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ved331/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ved331/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ved331/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ved331/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ved331/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ved331/DSA/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ved331/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
