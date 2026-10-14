@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ved331/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ved331/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ved331/DSA/tree/master/0268-missing-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ved331/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ved331/DSA/tree/master/0011-container-with-most-water) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ved331/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ved331/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
