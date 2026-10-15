@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ved331/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ved331/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ved331/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/ved331/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ved331/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ved331/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ved331/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ved331/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ved331/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ved331/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/ved331/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ved331/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ved331/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ved331/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/ved331/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ved331/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Linked List
 |  |
