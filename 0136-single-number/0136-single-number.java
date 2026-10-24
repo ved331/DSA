@@ -1,7 +1,6 @@
 class Solution {
     public int singleNumber(int[] nums) {
         int n=nums.length;
-        int ans=0;
 
     for(int i=0;i<n;i++){
           int count=0;
@@ -15,6 +14,6 @@ class Solution {
         return nums[i];
     }
   }
-  return ans;
+  return -1;
  }
 }
