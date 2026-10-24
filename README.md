@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ved331/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ved331/DSA/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ved331/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sliding Window
 |  |
 | ------- |
