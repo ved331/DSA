@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/ved331/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ved331/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ved331/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ved331/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ved331/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ved331/DSA/tree/master/0268-missing-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ved331/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ved331/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
